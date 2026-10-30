@@ -1,8 +1,8 @@
-# 🛍️ Tech Store Sales Analysis
+ Tech Store Sales Analysis
 
 **Exploring sales performance, customer satisfaction, product returns, and advertising efficiency using Python.**
 
-## 📌 About the Project
+  About the Project
 
 This project started as a way for me to put my Python data analysis skills into practice.
 
@@ -14,7 +14,7 @@ I explored a tech store's sales data to understand which products generate the m
 
 The goal wasn't just to create charts. It was to understand what the numbers were saying and use them to suggest possible business improvements.
 
-## 🎯 Project Objectives
+  Project Objectives
 
 The main questions I wanted to answer were:
 
@@ -26,7 +26,7 @@ The main questions I wanted to answer were:
 - How does advertising spending compare with the revenue generated?
 - What practical recommendations can be made from these findings?
 
-## 🛠️ Tools and Technologies
+   Tools and Technologies
 
 | Tool | How I used it |
 |---|---|
@@ -37,7 +37,7 @@ The main questions I wanted to answer were:
 | Seaborn | Creating statistical visualizations, including bar plots, line plots, scatter plots, and heatmaps |
 | Jupyter Notebook | Working through the analysis step by step |
 
-## 📂 Dataset Overview
+   Dataset Overview
 
 The project uses a practice dataset named `tech_store_sales_practice.csv`.
 
@@ -58,9 +58,9 @@ Some of the important columns include:
 
 This is a practice dataset, so the findings demonstrate my analysis process rather than establish facts about a real retailer.
 
-## 🔍 What I Did
+ What I Did
 
-### 1. Data inspection and cleaning
+1. Data inspection and cleaning
 
 Before analyzing anything, I needed to understand the dataset.
 
