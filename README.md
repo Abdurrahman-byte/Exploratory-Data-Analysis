@@ -234,7 +234,7 @@ This project is one step in that journey. I'm continuing to build my foundations
 
 Thanks for checking out my project!
 
-And if like this project please don't forget to give it a star
+And if you like this project please don't forget to give it a star
 
 
 
